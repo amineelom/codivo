@@ -41,4 +41,14 @@ real-time collaborative code editor with video chat
 - Allow users to **revert** to previous versions.
 
 ---
+## 📁 Project Structure
 
+```sh
+/backend         # Flask/Django code
+/frontend        # React/HTML/CSS/JS
+/docker          # Dockerfiles
+/docs            # Documentation
+tests/           # Test suites
+.github/         # CI/CD workflows
+requirements.txt # Python dependencies
+```
